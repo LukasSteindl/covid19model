@@ -1,5 +1,5 @@
 # covid19model
-Excel Modell zur Simulation der Covid-19 Ausbreitung in einem Land. 
+Excel Modell zur Simulation der Covid-19 Ausbreitung. 
 Die Parameter basieren auf Annahmen die nicht zutreffen müssen. Weiters könnten noch Fehler im Modell enthalten sein. 
 
 
