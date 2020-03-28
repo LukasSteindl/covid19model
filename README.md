@@ -16,7 +16,7 @@ Idealerweise steckt eine ansteckend infizierte Person weniger als 0.05 Personen 
 
 <h2>Szenario 2</h2>
 Falls eine Person durchschnittlich mehr als 0.07 Personen ansteckt, könnte es zu einer Überlastung kommen: 
-<img src="BadSzenario.PNG"/>
+<img src="BadSzenariov2.PNG"/>
 
 
 
