@@ -20,3 +20,9 @@ Falls eine Person durchschnittlich mehr als 0.07 Personen ansteckt, könnte es z
 
 
 
+
+<h2>Szenario 3</h2>
+Falls eine Person durchschnittlich nur 0.02 Personen ansteckt, wäre am Mitte Juni die Pandemie in Österreich vorbei.
+<img src="optimistisch.PNG"/>
+
+
