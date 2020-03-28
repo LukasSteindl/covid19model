@@ -2,6 +2,23 @@
 Excel Modell zur Simulation der Covid-19 Ausbreitung. 
 Die Parameter basieren auf Annahmen die nicht zutreffen müssen. Weiters könnten noch Fehler im Modell enthalten sein. 
 
+
+--Update 28.3
+
+
+<img src="criticalCasesGoodSzenario.PNG"/>
+
+
+<img src="criticalCasesBadSzenario.PNG"/>
+
+
+
+
+
+
+
+
+
 Hier ein zwei Szenarien für Österreich:
 Bei hoher Isolation ergibt sich ein milder aber langer Verlauf: 
 (In diesem Fall dauert es fast 400 Tage bis es keine aktiv Infizierten mehr gibt.)
